@@ -1,0 +1,13 @@
+#error {
+    width: 40%;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 10px;
+}
+
+#errorDos {
+    width: 40%;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 10px;
+}
